@@ -1,55 +1,28 @@
 ## Hey, this is Candy Lab 👋
 
-
-This is the **Candy Lab** of the School of Data Science and Engineering, East China Normal University.
-
 ![An illustration showing a variety of differently themed Octocats. Monuments from different cities are indicated in the background like the Space Needle, Berlin Fernsehturm and Transamerica Pyramid.](https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg)
 
-Yes, we are building GitHub on GitHub. In fact, we’ve been doing this since **October 19th, 2007**. That's when we made our first commit. Since then we pushed **over 2.5 million commits**, opened **over 1 million issues**, submitted roughly **650k pull requests** across **4357 repositories** from over **50 countries** 🤯. But that's just us. We are proud  to be part of the work of millions of developers, companies and robots across the solar system 🪐. Yes, [Robots](https://github.com/readme/featured/nasa-ingenuity-helicopter)!
+# Lab Overview
 
-### 🍿 An interconnected community
+Welcome to the **Candy Lab** of the [School of Data Science and Engineering (DaSE)](https://dase.ecnu.edu.cn) at [East China Normal University (ECNU)](https://english.ecnu.edu.cn/). As a prominent research group, we thrive on exploring and pushing the boundaries of how machine learning can redefine and revolutionize the world of database management.
 
-The open source community is the 💗 heart of GitHub and fundamental to how we build software today. See for yourself:
+### Our Vision
+Our main vision is to create an intelligent and self-adaptive data management system that seamlessly integrates cutting-edge machine learning techniques. By doing so, we aim to unlock unprecedented levels of efficiency, reliability, and scalability in data management tasks.
 
-- [GitHub Sponsors](https://github.com/sponsors) helped support more than **5k** individuals and projects around the world 🌍
-- Open source projects on GitHub received a stunning **218 million** contributions 🚀 in the last year alone
-- **Every minute** a developer creates a new release 🏄 for a public project on GitHub
+### Core Research Areas
+We are deeply passionate about a multitude of research topics within the broad spectrum of database management. Currently, our primary research interests encompass:
 
-Now that we are talking about the important things ☝️, are you contributing to open source? Yes? Okay, you rock! 🎸 If not, we can help you get started! Open source software is made by people just like you. Learn more about [how to contribute](https://opensource.guide/).
+- **AI4Storage**: Here, we delve into the integration of AI with storage technologies. Key areas of focus include:
+  - Non-volatile memory: Exploring how machine learning can optimize and enhance the functionalities of persistent memory structures.
+  - LSM-tree (Log-Structured Merge-tree): Investigating the fusion of AI techniques to improve the performance and efficiency of LSM-tree operations.
 
-### 🦦 Contributing to the ecosystem
+- **AI4Optimizer**: Optimization lies at the heart of efficient data management. Our interests in this domain include:
+  - Cardinality estimation: Employing AI to refine the predictability of the number of rows returned by a query, which is essential for optimizing query performance.
 
-We contribute to the tools 🔧 we rely on to build and run GitHub, while also maintaining 🧙‍♂️ our own open source projects like:
+- **AI4Operations**: Elevating database operations through AI-driven strategies is one of our core pursuits. Key topics under this umbrella are:
+  - Index recommendation: Harnessing machine learning algorithms to suggest optimal indexing strategies for databases, ensuring efficient data retrieval and management.
 
-- [GitHub CLI](https://github.com/cli/cli) - A command line tool for GitHub
-- [Git Large File Storage](https://github.com/git-lfs/git-lfs) - A git extension for versioning large files
-- [Primer](https://github.com/primer/css) - The GitHub design system
+- **Vector DB**: In the realm of databases, vector databases are becoming increasingly crucial for tasks such as similarity search. Our focus areas include:
+  - ANNS (Approximate Nearest Neighbor Search): Leveraging machine learning techniques to enhance the speed and accuracy of searches within large-scale datasets.
 
-### 👓 Appendix
-
-See what's next on our [public roadmap](https://github.com/github/roadmap) ✨ and [let us know](https://github.com/github/feedback) if you have any suggestions 🙇‍♂️. Oh, and by the way, we are always hiring talented, passionate people to [join our team](https://github.com/about/careers) 🙌.
-
-<details> 
-	<summary>"Tell me more, I can't get enough!"</summary>
-	<br>
-	<ul>
-	<li>GitHub is built using mighty 🔨 open source technologies like <a href="https://github.com/rails">Ruby on Rails</a>, <a href="https://github.com/golang">Go</a>, <a href="https://github.com/primer">Primer</a>, <a href="https://github.com/reactjs">React</a> and <a href="https://github.com/apache/kafka">Kafka</a> among others.</li>
-		<li>The three open source projects GitHub members have most contributed 👩‍💻 to are:
-			<ul>
-				<li><a href="https://github.com/microsoft/vscode">Visual Studio Code</a></li>
-				<li><a href="https://github.com/rails/rails">Ruby on Rails</a></li>
-				<li><a href="https://github.com/Homebrew">Homebrew</a></li>
-			</ul>
-		</li>
-		<li>By the way, our <a href="https://github.com/github/docs">documentation</a> 🤓 is also open sourced</li>
-	</ul>
-</details>
-
----
-
-<sub>🤫 Psst! You can create your own [organization README](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile).</sub>
-
-<!--
-Made with 🖤
-🙇‍♂️🎤⬇️
--->
+Join us in our journey as we blend traditional database management principles with state-of-the-art machine learning advancements to shape the future of data science and engineering.
