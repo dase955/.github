@@ -1,6 +1,6 @@
 ## Hey, this is Candy Lab 👋
 
-![openart-image_Av50FU2N_1725335969491_raw](https://github.com/user-attachments/assets/aa85f844-b742-4ef1-9e01-5865a38e99df)
+![ChatGPT Image Apr 2, 2025, 09_24_03 PM](https://github.com/user-attachments/assets/91bd2afb-9f69-4c3e-ac2a-1c1a5bd0a138)
 
 # Lab Overview
 
