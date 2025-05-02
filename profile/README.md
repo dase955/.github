@@ -26,3 +26,8 @@ We are deeply passionate about a multitude of research topics within the broad s
   - ANNS (Approximate Nearest Neighbor Search): Leveraging machine learning techniques to enhance the speed and accuracy of searches within large-scale datasets.
 
 Join us in our journey as we blend traditional database management principles with state-of-the-art machine learning advancements to shape the future of data science and engineering.
+
+### Our Students
+**2025:** Y Chen (Master-->Meituan SSP), G Yang (Master-->Didi SP), J Yang (Master-->Tencent SP).
+
+**2024:** L Chen (Master-->ECNU Phd), R Chen (Master-->PingCAP SP), H Wang (Master-->ByteDance SSP), X Xiong (Master-->BYD), Q Wang (Phd--> Tencent Game SSP, cosupervised with Prof. R Zhang), K Li(Phd-->Assistant Professor in Fuzhou University, cosupervised with Prof. R Zhang).
